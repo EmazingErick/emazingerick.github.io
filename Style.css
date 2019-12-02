@@ -3,5 +3,13 @@
 }
 #Info {
     margin:25px;
+    
+    
     font-weight:100,bold;
+
+}
+h1{
+    text-align:center;
+    fill:antiquewhite;
+    font-size:40px;
 }
