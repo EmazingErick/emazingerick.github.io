@@ -1,15 +1,18 @@
 ﻿body{
     background-color:cornflowerblue;
-
+    
 }
 .Info {
     margin:40px;
     color:tan;
-    
+    text-indent:5px;
     font-weight:200,bold;
 
 }
-
+.Links{
+    margin:10px;
+    border:2px;
+}
 h1{
     text-align:center;
     color:ghostwhite;
