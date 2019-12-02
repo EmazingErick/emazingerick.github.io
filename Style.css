@@ -1,15 +1,16 @@
 ﻿body{
     background-color:cornflowerblue;
+
 }
 #Info {
     margin:25px;
-    
+    color:crimson;
     
     font-weight:100,bold;
 
 }
 h1{
     text-align:center;
-    fill:antiquewhite;
+    color:ghostwhite;
     font-size:40px;
 }
